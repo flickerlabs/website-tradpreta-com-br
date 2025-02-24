@@ -1,2 +1,2 @@
-# website-tradpreta
+# TradPreta
 Repository of the TradPreta website.
